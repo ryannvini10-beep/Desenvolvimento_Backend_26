@@ -1,6 +1,6 @@
 // Cria a classe chamada carro
 
-package aula02 // package é por conta da pasta
+package Aula02; // package é por conta da pasta
 
 
 class Carro {
@@ -13,7 +13,7 @@ String cor;
 
 void buzinar (){
     // Exibir mensagem no terminal
-    System.out.println(x: "Bibi");
+    System.out.println("Bibi");
 }
 
 }
