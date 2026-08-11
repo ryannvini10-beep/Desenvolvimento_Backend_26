@@ -1,4 +1,4 @@
-package aula02;
+package Aula02;
 
 class Animal{
     void emitirSom(){

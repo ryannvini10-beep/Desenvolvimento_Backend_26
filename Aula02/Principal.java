@@ -1,10 +1,10 @@
-
+package Aula02;
 
 public class Principal {
     public void main(String [] args){
 
         //Cria o objeto chamado meuCarro
-        Carro meuCarro = new Carro() ;
+       Carro meuCarro = new Carro ();
 
         // Atribuindo a cor e a marca ao objeto
         meuCarro.marca = "Fiat";
@@ -18,5 +18,3 @@ public class Principal {
     }
 
 }
-
-
